@@ -1,5 +1,3 @@
-![Profile views](https://komarev.com/ghpvc/?username=khanwaqas444&color=blue)
-
 <h2 align="center">Hey 👋 I'm Waqas Khan</h2>
 <p align="center">
 Java backend learner • Building projects • Learning in public
