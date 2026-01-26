@@ -58,8 +58,26 @@ I try to stay consistent and improve every day.
 
 ---
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=khanwaqas444&theme=default&hide_border=true)
+### 📊 GitHub Overview
+
+<table>
+<tr>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanwaqas444&layout=compact&theme=default&hide_border=true)
+
+</td>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanwaqas444&show_icons=true&theme=default&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khanwaqas444&theme=default&hide_border=true&background=F6F8FA" />
+</p>
 
 ---
 
