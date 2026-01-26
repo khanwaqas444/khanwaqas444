@@ -48,10 +48,15 @@ I believe learning is best done by **building, breaking, and improving**.
 
 ### 🧩 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanwaqas444&layout=compact&theme=default)
+
+---
+
 ### 📊 GitHub Activity
 I try to stay consistent and improve every day.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanwaqas444&show_icons=true&theme=default)
+
+---
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=khanwaqas444&theme=default)
