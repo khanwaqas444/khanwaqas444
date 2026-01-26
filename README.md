@@ -64,7 +64,7 @@ I believe learning is best done by **building, breaking, and improving**.
 </table>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=khanwaqas444&theme=default&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=khanwaqas444&theme=default&hide_border=true&background=EEF5FF" />
 </p>
 
 ---
