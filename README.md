@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=khanwaqas444&color=blue)
+
 <h1 align="center">Hi 👋, I'm Waqas Khan</h1>
 <h3 align="center">A Java Developer in progress from India 🇮🇳</h3>
 
