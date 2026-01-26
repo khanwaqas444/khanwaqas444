@@ -59,7 +59,7 @@ I try to stay consistent and improve every day.
 ---
 
 ### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=khanwaqas444&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=khanwaqas444&theme=default&hide_border=true)
 
 ---
 
