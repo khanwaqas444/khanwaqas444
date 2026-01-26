@@ -1,32 +1,59 @@
 ![Profile views](https://komarev.com/ghpvc/?username=khanwaqas444&color=blue)
 
-<h1 align="center">Hi 👋, I'm Waqas Khan</h1>
-<h3 align="center">A Java Developer in progress from India 🇮🇳</h3>
+<h2 align="center">Hey 👋 I'm Waqas Khan</h2>
+<p align="center">
+Java backend learner • Building projects • Learning in public
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=khanwaqas444&color=green" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- Learning Java, Spring Boot & Backend Development
-- Building projects to understand real-world systems
-- Curious about APIs, databases & clean code
+### 👨‍💻 Who am I?
+I'm a self-driven Java developer in progress from India 🇮🇳.  
+I enjoy understanding **how things work behind the scenes** — APIs, databases, and system logic.
+
+I believe learning is best done by **building, breaking, and improving**.
 
 ---
 
-### 🛠️ Tech Stack
-- Java
-- Spring Boot
-- MySQL
-- HTML & CSS
-- Git & GitHub
+### 🧠 What I’m currently focused on
+- Writing clean and readable Java code  
+- Building REST APIs with Spring Boot  
+- Understanding backend workflows & data flow  
+- Improving problem-solving step by step  
 
 ---
 
-### 📌 Projects
-- 🚀 Java Journey – daily Java practice
-- 🏥 Live-ecommerce – backend project
-- 🛒 Shopkart – basic e-commerce logic
+### 🛠️ Tools & Technologies
+- **Language:** Java  
+- **Backend:** Spring Boot  
+- **Database:** MySQL  
+- **Frontend (basic):** HTML, CSS  
+- **Version Control:** Git & GitHub  
 
 ---
 
-### 📈 GitHub Stats
-![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanwaqas444&show_icons=true&theme=radical)
+### 📂 Featured Work
+- **Java Journey**  
+  Daily Java practice to strengthen fundamentals  
+
+- **Hospital Management System**  
+  Backend-focused project with CRUD operations  
+
+- **Shopkart**  
+  Learning core e-commerce logic and flow  
+
+---
+
+### 📊 GitHub Activity
+I try to stay consistent and improve every day.
+
+![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanwaqas444&show_icons=true&theme=tokyonight)
+
+---
+
+### 🤝 Let’s Connect
+If you’re learning backend or Java too, feel free to explore my repos or connect here on GitHub.
