@@ -70,7 +70,7 @@ I believe learning is best done by **building, breaking, and improving**.
     src="https://github-readme-streak-stats.herokuapp.com/?user=khanwaqas444&hide_border=true" 
     alt="GitHub Streak Stats"
   />
-</p>
+</p> 
 
 ---
 
