@@ -51,10 +51,10 @@ I believe learning is best done by **building, breaking, and improving**.
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khanwaqas444&layout=compact&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanwaqas444&layout=compact&hide_border=true" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khanwaqas444&show_icons=true&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=khanwaqas444&show_icons=true&hide_border=true" />
     </td>
   </tr>
 </table>
