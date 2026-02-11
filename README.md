@@ -48,23 +48,17 @@ I believe learning is best done by **building, breaking, and improving**.
 
 ## 📊 GitHub Overview
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanwaqas444&layout=compact&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=khanwaqas444&show_icons=true&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khanwaqas444&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
+</p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=khanwaqas444&hide_border=true" 
-    alt="GitHub Streak Stats"
-  />
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanwaqas444&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khanwaqas444&theme=default&hide_border=true" />
+</p>
 
 ---
 
