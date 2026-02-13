@@ -50,11 +50,11 @@ I believe learning is best done by **building, breaking, and improving**.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=khanwaqas444&show_icons=true&theme=default&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=khanwaqas444&show_icons=true&theme=github&hide_border=true&count_private=true&include_all_commits=true" 
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanwaqas444&layout=compact&theme=default&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanwaqas444&layout=compact&theme=github&hide_border=true" 
     height="170"
   />
 </p>
