@@ -52,9 +52,9 @@ I believe learning is best done by **building, breaking, and improving**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khanwaqas444&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=khanwaqas444&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanwaqas444&layout=compact&hide_border=true&langs_count=8&theme=default" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khanwaqas444&layout=compact&hide_border=true&langs_count=8" height="170" />
 
 </div>
 
